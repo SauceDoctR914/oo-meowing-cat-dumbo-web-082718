@@ -8,9 +8,6 @@ class Cat
     puts "meow!"
   end
   
-  attr_accessor :name
-  attr_accessor :meow
-  
 end
 
   
