@@ -2,7 +2,7 @@ class Cat
   attr_accessor :name
   
   def initialize
-    @name = "Master Splinter"
+    @name = "Master Whiskers"
   end
   
   def meow
