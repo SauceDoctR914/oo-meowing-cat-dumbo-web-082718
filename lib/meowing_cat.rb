@@ -1,4 +1,8 @@
 class Cat 
+   
+   def initialize
+    @name = "Starfruit Master"
+  end
   
   def meow
     puts "meow!"
