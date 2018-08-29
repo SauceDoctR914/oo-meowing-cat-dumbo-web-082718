@@ -1,5 +1,7 @@
 class Cat 
-   
+  attr_accessor :name
+  attr_accessor :meow
+  
    def initialize
     @name = "Starfruit Master"
   end
