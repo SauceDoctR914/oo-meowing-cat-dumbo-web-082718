@@ -6,9 +6,9 @@ class Cat
   #   @name = "Starfruit Master"
   # end
   
-  # def meow
-  #   puts "meow!"
-  # end
+  def meow
+    puts "meow!"
+  end
   
 end
 
